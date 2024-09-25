@@ -1,0 +1,1 @@
+FROM milvusdb/milvus-operator:v1.0.8
